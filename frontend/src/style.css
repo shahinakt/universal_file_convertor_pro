@@ -1,8 +1,13 @@
 @import "tailwindcss";
 
-
 * {
   box-sizing: border-box;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+*::-webkit-scrollbar {
+  display: none;
 }
 
 body {
@@ -28,6 +33,7 @@ a {
   color: #646cff;
   text-decoration: inherit;
 }
+
 a:hover {
   color: #535bf2;
 }
@@ -36,19 +42,3 @@ a:hover {
   background-color: #ffffff;
   min-height: 100vh;
 }
-
-
-* {
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-}
-
-*::-webkit-scrollbar {
-  display: none; 
-}
-
-
-html, body {
-  overflow: auto;
-}
-
