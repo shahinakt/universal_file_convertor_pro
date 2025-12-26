@@ -10,7 +10,7 @@
 - **Zero Cost** - Free forever, no ads, no signup required
 - **Instant Conversion** - Fast, reliable file transformation
 
-## ��� Supported Formats
+## Supported Formats
 
 | Category | Formats |
 |----------|---------|
@@ -19,13 +19,13 @@
 | **Spreadsheets** | XLSX, XLS, CSV, ODS |
 | **Presentations** | PPTX, PPT, ODP |
 
-## ���️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Vue.js 3, Tailwind CSS, Vite
 - **Backend**: Flask, Python
 - **Processing**: PIL, python-docx, openpyxl, python-pptx
 
-## ��� Quick Start
+## Quick Start
 
 ### Frontend
 ```bash
@@ -41,14 +41,14 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## ��� Privacy & Security
+## Privacy & Security
 
 - **No data storage** - Files processed in memory only
 - **Client-side focus** - Minimal server processing
 - **No tracking** - Zero analytics or user monitoring
 - **Open source** - Transparent and auditable
 
-## ���‍��� Developer
+## Developer
 
 **Shahina Sareen**  
 Portfolio: [shahinasareen.tech](https://www.shahinasareen.tech)
